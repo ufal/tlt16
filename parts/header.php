@@ -20,7 +20,6 @@ function viewPageHeader($title, $titleSuffix = " | TLT16"){
 		<ul>
 			<li><a href="./">TLT15</a></li>
 			<li><a href="call-for-papers.php">Call for papers</a></li>
-			<li><a href="important-dates.php">Important dates</a></li>
 			<li><a href="submission.php">Submission</a></li>
 			<li><a href="program.php">Program</a></li>
 			<li><a href="reg.php">Registration</a></li>
