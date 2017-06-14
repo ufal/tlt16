@@ -1,0 +1,251 @@
+.thin {
+  font-weight: 100;
+}
+.regular {
+  font-weight: 400;
+}
+.bold {
+  font-weight: 700;
+}
+strike {
+  color: #777;
+}
+strong,
+b {
+  font-weight: 700;
+}
+body {
+  font-family: 'Roboto', sans-serif;
+  font-size: 12pt;
+  font-weight: 400;
+  color: #292f36;
+}
+.center {
+  text-align: center;
+}
+.full-column,
+.column {
+  margin: 0.5em auto;
+}
+.full-column {
+  width: 95%;
+}
+.column {
+  width: 85%;
+  padding: 1em 5%;
+}
+.no-gap {
+  margin-top: 0;
+  margin-bottom: 0;
+  padding-top: 0;
+  padding-bottom: 0;
+}
+.half-column {
+  display: inline-block;
+  width: 50%;
+}
+.half-column.left {
+  display: block;
+  float: left;
+}
+.half-column.left .matrjoska {
+  padding-right: 3em;
+}
+.half-column.right {
+  display: block;
+  float: right;
+}
+.half-column.right .matrjoska {
+  padding-left: 3em;
+}
+@media only screen and (max-width: 800px) {
+  .half-column.left,
+  .half-column.right {
+    display: block;
+    float: none;
+    width: 100%;
+    margin-bottom: 3em;
+  }
+  .half-column.left .matrjoska,
+  .half-column.right .matrjoska {
+    padding: 0;
+  }
+}
+.clear {
+  clear: both;
+}
+h1,
+h2,
+h3 {
+  font-weight: 400;
+  margin: 0;
+}
+h1 {
+  font-size: 20pt;
+}
+h2 {
+  font-size: 18pt;
+}
+h3 {
+  font-size: 15pt;
+}
+a {
+  color: #e43e5e;
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+}
+.rounded-border {
+  border-radius: 0.3em;
+}
+.align-right {
+  text-align: right;
+}
+header.main nav {
+  text-transform: uppercase;
+}
+header.main nav ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+header.main nav ul li {
+  display: inline-block;
+}
+@media only screen and (max-width: 800px) {
+  header.main nav ul li a {
+    display: inline-block;
+    padding: 0.5em 0;
+  }
+}
+header.main nav ul li:last-child:after {
+  display: none;
+}
+header.main nav ul li:after {
+  content: "|";
+  padding: 0 1em;
+}
+@media only screen and (max-width: 800px) {
+  header.main nav ul li:after {
+    padding: 0 0.5em;
+  }
+}
+header.main .cover-photo {
+  height: 15em;
+  padding: 0;
+  background-image: url(../img/hrad.jpg);
+  background-size: 100%;
+  background-position: 100% 10%;
+  border-radius: 0.3em;
+}
+header.main .cover-photo .matrjoska {
+  text-align: right;
+  padding-top: 1%;
+  padding-right: 7%;
+}
+@media only screen and (max-width: 800px) {
+  header.main .cover-photo {
+    height: auto;
+    background-size: cover;
+  }
+  header.main .cover-photo .matrjoska {
+    padding: 1em 0;
+    text-align: center;
+  }
+  header.main .cover-photo .matrjoska h1 {
+    display: inline-block;
+    background-color: rgba(255, 255, 255, 0.6);
+    padding: 0 3px;
+  }
+}
+header.main h1,
+header.main h2 {
+  font-weight: 100;
+  margin: 0;
+  padding: 0;
+  text-transform: uppercase;
+}
+header.main h1 {
+  font-size: 9vw;
+}
+header.main h2 {
+  font-size: 3.24vw;
+  margin-right: 0.15em;
+}
+header.main h2 .background {
+  background-color: rgba(255, 255, 255, 0.6);
+  padding: 0 3px;
+}
+.infobox {
+  padding-top: 1em;
+  padding-bottom: 1em;
+  background-color: #f9f0bd;
+  border-radius: 0.3em;
+}
+.prices .member-price {
+  background-color: #f9f0bd;
+}
+.prices .disabled {
+  color: #777;
+}
+.member-price-note {
+  background-color: #f9f0bd;
+  padding: 8px;
+  line-height: 1.42857143;
+}
+table {
+  border-spacing: 0;
+  border-collapse: collapse;
+}
+table thead th {
+  border-top: 0;
+}
+table td,
+table th {
+  padding: 8px;
+  line-height: 1.42857143;
+  border-top: 1px solid #aaa;
+}
+.program-table .date {
+  background-color: #f9f0bd;
+}
+.program-table .time {
+  font-weight: 700;
+}
+footer {
+  height: 40px;
+  line-height: 40px;
+}
+footer .footer-box {
+  background-color: #292f36;
+  color: #ffffff;
+  border-radius: 0.3em;
+}
+footer .footer-left {
+  width: auto;
+  overflow: hidden;
+}
+footer .footer-left .copyright {
+  padding-right: 1em;
+}
+footer .footer-right {
+  float: right;
+  text-align: right;
+}
+footer .footer-right .footer-logo,
+footer .footer-right .footer-box {
+  display: inline-block;
+  margin-right: 10px;
+}
+footer .footer-right .sponsored-by {
+  padding: 0 1em;
+}
+footer .footer-right .footer-logo .valign {
+  display: inline-block;
+  height: 100%;
+  vertical-align: middle;
+}
+footer .footer-right .footer-logo img {
+  vertical-align: middle;
+}
