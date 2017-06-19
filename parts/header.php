@@ -18,7 +18,7 @@ function viewPageHeader($title, $titleSuffix = " | TLT16"){
 <header class="main">
 	<nav class="column no-gap">
 		<ul>
-			<li><a href="./">TLT15</a></li>
+			<li><a href="./">TLT16</a></li>
 			<li><a href="call-for-papers.php">Call for papers</a></li>
 			<li><a href="submission.php">Submission</a></li>
 			<li><a href="program.php">Program</a></li>
