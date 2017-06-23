@@ -34,4 +34,11 @@ viewPageHeader($title, ""); // title bez suffixu
 	<p>TLT serves as a venue for new and ongoing research on the topic of linguistics and treebanks. The 16th edition of TLT will return to the heart of Europe, at Charles University, Prague, in January 2018.</p>
 	<p>For 16 years now, TLT has served as a venue for new and ongoing high-quality work related to syntactically-annotated corpora, i.e., treebanks; with a focus on all the aspects of treebanking – descriptive, theoretical, formal and computational – but also going beyond treebanks, including other levels of annotation such as frame semantics, coreference or events, to name only a few.</p>
 </div>
+
+<div class="column">
+	<h2>Co-located workshop: CRH</h2>
+	<p>Since TLT in Warsaw, the <a href="https://www.oeaw.ac.at/ac/crh2/">CRH ("Corpus-based Research in the Humanities") workshop</a> has been collocated with TLT. 
+		This year, it takes place just a couple hours away - in Vienna, Austria, immediately following the TLT. 
+	</p>
+
 <?php include("parts/footer.php"); ?>
