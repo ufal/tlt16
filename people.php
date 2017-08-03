@@ -32,7 +32,7 @@ viewArticleHeader($title);
 </li><li>Koenraad De Smedt (Bergen University, Norway)
 </li><li>Tomaz Erjavec (Institut Jozef Stefan, Ljubljana, Slovenia)
 </li><li>Filip Ginter (Turku University, Finland)
-</li><li>Memduh Gokirmak (Instanbul University, Turkey)
+</li><li>Memduh Gokirmak (Instanbul Technical University, Turkey)
 </li><li>Eva Hajicova (Charles University, Prague, Czech Republic)
 </li><li>Dag Haug (University of Oslo, Norway)
 </li><li>Barbora Hladka (Charles University, Prague, Czech Republic)
