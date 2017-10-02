@@ -45,7 +45,6 @@ viewArticleHeader($title);
 </li><li>Kaili Muurisep (University of Tartu, Estonia)
 </li><li>Joakim Nivre (Uppsala University, Sweden)
 </li><li>Petya Osenova (Bulgarian Academy of Sciences, Sofia, Bulgaria)
-</li><li>Lilja Ovrelid (University of Oslo, Norway)
 </li><li>Agnieszka Patejuk (Polish Academy of Sciences, Warsaw, Poland)
 </li><li>Tatjana Scheffler (University of Potsdam, Germany)
 </li><li>Olga Scrivner (University of Indiana, Bloomington, USA)
@@ -60,12 +59,12 @@ viewArticleHeader($title);
 
 <h2>Local organizing committee</h2>
 <ul>
-	<li>Jan Hajič (Charles University, Czech Republic)</li>
+	<li>Jan Hajic (Charles University, Czech Republic)</li>
 	<li>Jiří Balhar (Charles University, Czech Republic)</li>
-	<li>Eduard Bejček (Charles University, Czech Republic)</li>
-	<li>Kateřina Bryanová (Charles University, Czech Republic)</li>
-	<li>Jan Ptáček (Charles University, Czech Republic)</li>
-	<li>Zdeňka Urešová (Charles University, Czech Republic)</li>
+	<li>Eduard Bejcek (Charles University, Czech Republic)</li>
+	<li>Katerina Bryanova (Charles University, Czech Republic)</li>
+	<li>Jan Ptacek (Charles University, Czech Republic)</li>
+	<li>Zdenka Uresova (Charles University, Czech Republic)</li>
 </ul>
 </article>
 
