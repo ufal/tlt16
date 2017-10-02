@@ -18,12 +18,20 @@ viewArticleHeader($title);
 <p>Submissions are invited for papers, posters and demonstrations which present research on treebanks and their intersection with linguistics, natural language processing and related fields. 
 </p>
 
+<p>
+The TLT16 conference is collocated with a Workshop on Data Provenance (Jan. 22, organized by Miriam Butt of Konstanz Univ., Germany) 
+and immediately followed by the <a href="https://www.oeaw.ac.at/ac/crh2/">CDH workshop</a>, which takes place 
+in Vienna, Austria on January 25-26, 2018.
+</p>
+	
 <p>TLT16 website: <a href="http://ufal.mff.cuni.cz/tlt16" title="TLT16 website">http://ufal.mff.cuni.cz/tlt16</a></p>
 
 <h2>Invited speaker</h2>
 
 <ul>
-	<li>TBD</li>
+	<li>Marie Candito, Université Paris Diderot - INRIA, France</li>
+	<li>Lilja Ovrelid, University of Oslo, Norway</li>
+
 </ul>
 
 <h2>Motivation and aims</h2>
@@ -132,7 +140,6 @@ It is assumed that system demonstration papers might be shorter;
 </li><li>Kaili Muurisep (University of Tartu, Estonia)
 </li><li>Joakim Nivre (Uppsala University, Sweden)
 </li><li>Petya Osenova (Bulgarian Academy of Sciences, Sofia, Bulgaria)
-</li><li>Lilja Ovrelid (University of Oslo, Norway)
 </li><li>Agnieszka Patejuk (Polish Academy of Sciences, Warsaw, Poland)
 </li><li>Tatjana Scheffler (University of Potsdam, Germany)
 </li><li>Olga Scrivner (University of Indiana, Bloomington, USA)
@@ -147,12 +154,12 @@ It is assumed that system demonstration papers might be shorter;
 
 <h2>Local organizing committee</h2>
 <ul>
-	<li>Jan Hajič (Charles University, Czech Republic)</li>
-	<li>Jiří Balhar (Charles University, Czech Republic)</li>
-	<li>Eduard Bejček (Charles University, Czech Republic)</li>
-	<li>Kateřina Bryanová (Charles University, Czech Republic)</li>
-	<li>Jan Ptáček (Charles University, Czech Republic)</li>
-	<li>Zdeňka Urešová (Charles University, Czech Republic)</li>
+	<li>Jan Hajic (Charles University, Czech Republic)</li>
+	<li>Jiri Balhar (Charles University, Czech Republic)</li>
+	<li>Eduard Bejcek (Charles University, Czech Republic)</li>
+	<li>Katerina Bryanova (Charles University, Czech Republic)</li>
+	<li>Jan Ptacek (Charles University, Czech Republic)</li>
+	<li>Zdenka Uresova (Charles University, Czech Republic)</li>
 </ul>
 </article>
 
