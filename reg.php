@@ -3,8 +3,49 @@ include("parts/header.php");
 
 $title = "Registration";
 
+// CNB EUR rate
+$cacheDir = "cache";
+$rateFile = "$cacheDir/rateEUR.txt";
+if (!file_exists($cacheDir)) {
+    mkdir($cacheDir);
+}
+
+$cacheExists = file_exists($rateFile);
+$rateOld = true;
+$rate = 25.65; // fallback rate
+
+if ($cacheExists) {
+	$cachedRate = file_get_contents($rateFile);
+	$cachedRate = explode(";", $cachedRate);
+	if(((int)$cachedRate[0])+60*60*24 > time())
+		$rateOld = false;
+	else
+		$rate = (float)$cachedRate[1];
+}
+
+if (!$cacheExists || $rateOld) {
+	/* CNB daily rates file structure:
+	03.11.2017 #213
+	země|měna|množství|kód|kurz
+	[...]
+	EMU|euro|1|EUR|25,650
+	[...]
+	*/
+	$cnbRates = file("http://www.cnb.cz/cs/financni_trhy/devizovy_trh/kurzy_devizoveho_trhu/denni_kurz.txt");
+	foreach ($cnbRates as $eurRateLine)
+		if(preg_match('/EUR/', $eurRateLine)) break; // get the EUR line
+
+	$eurRateLine = explode("|", $eurRateLine);
+	$eurRate = trim($eurRateLine[4]);
+	$rate = floatval(str_replace(",",".",$eurRate)); // comma to dot
+
+	file_put_contents($rateFile, time().";".$rate);
+}
+// /CNB EUR rate
+
 function approx($czk){
-	echo number_format($czk, 0, ",", " ")." CZK (approx ".number_format(round($czk/25.65), 0, ",", " ")." EUR)";
+	global $rate;
+	return number_format($czk, 0, ",", " ")." CZK (approx ".number_format(ceil($czk/$rate), 0, ",", " ")." EUR)";
 }
 
 $lateDate = "27.12.2017 23:59";
@@ -30,13 +71,13 @@ viewArticleHeader($title);
 <tbody>
 	<tr>
 		<th>Regular</th>
-		<td<?=$earlyDisabledClass?>>149 EUR</td>
-		<td<?=$lateDisabledClass?>>180 EUR</td>
+		<td<?=$earlyDisabledClass?>><?=approx(149*25.65)?></td>
+		<td<?=$lateDisabledClass?>><?=approx(180*25.65)?></td>
 	</tr>
 	<tr>
 		<th>Student</th>
-		<td<?=$earlyDisabledClass?>>99 EUR</td>
-		<td<?=$lateDisabledClass?>>130 EUR</td>
+		<td<?=$earlyDisabledClass?>><?=approx(99*25.65)?></td>
+		<td<?=$lateDisabledClass?>><?=approx(130*25.65)?></td>
 	</tr>
 </tbody>
 </table>
