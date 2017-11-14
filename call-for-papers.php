@@ -19,7 +19,7 @@ viewArticleHeader($title);
 </p>
 
 <p>
-The TLT16 conference is collocated with a Workshop on Data Provenance (Jan. 22, organized by Miriam Butt of Konstanz Univ., Germany) 
+The TLT16 conference is collocated with a <a href="https://typo.uni-konstanz.de/dataprovenance/">Workshop on Provenance and Annotation in Computational Linguistics 2018</a> (Jan. 22, organized by Miriam Butt of Konstanz Univ., Germany) 
 and immediately followed by the <a href="https://www.oeaw.ac.at/ac/crh2/">CDH workshop</a>, which takes place 
 in Vienna, Austria on January 25-26, 2018.
 </p>
