@@ -82,10 +82,11 @@ viewArticleHeader($title);
 </tbody>
 </table>
 <h3>Workshop</h3>
-<p>Workshop on Data Provenance (Jan. 22, organized by Miriam Butt of Konstanz Univ., Germany) is free of charge.</p>
+<p>Workshop on Data Provenance (Jan. 22, organized by Miriam Butt of Konstanz Univ., Germany) is free of charge, 
+	but registration is necessary (see below).</p>
 
-<h2>Registration</h2>
-<p>An application for online registration for the event coming soon.</p>
+<h2>Registration Form</h2>
+	<p>Please <a href="https://ufal.mff.cuni.cz/tlt16/registration">register and pay here</a>.</p>
 
 </article>
 <?php include("parts/footer.php"); ?>
