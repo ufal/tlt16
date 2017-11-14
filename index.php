@@ -36,6 +36,15 @@ viewPageHeader($title, ""); // title bez suffixu
 </div>
 
 <div class="column">
+	<h2>Co-located workshop: Workshop on Provenance and Annotation</h2>
+	<p>This year, the TLT is co-located with the <a href="">Workshop 
+		on Provenance and Annotation in Computational Linguistics 2018</a>, 
+		taking place also in Prague (same venue as TLT), on January 22nd, 2018, organized by Miriam Butt of University of Konstanz, Germany.
+			</p>
+</div>
+
+
+<div class="column">
 	<h2>Co-located workshop: CRH</h2>
 	<p>Since TLT in Warsaw, the <a href="https://www.oeaw.ac.at/ac/crh2/">CRH ("Corpus-based Research in the Humanities") workshop</a> has been collocated with TLT. 
 		This year, it takes place just a couple hours away - in Vienna, Austria, immediately following the TLT. 
