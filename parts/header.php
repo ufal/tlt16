@@ -25,6 +25,7 @@ function viewPageHeader($title, $titleSuffix = " | TLT16"){
 			<li><a href="reg.php">Registration</a></li>
 			<li><a href="visas.php">Visas</a></li>
 			<li><a href="venue.php">Venue</a></li>
+			<li><a href="https://typo.uni-konstanz.de/dataprovenance/">WPACL</a></li>
 			<li><a href="https://www.oeaw.ac.at/ac/crh2/">CRH</a></li>
 			<li><a href="people.php">People</a></li>
 			<li><a href="contact.php">Contact</a></li>
