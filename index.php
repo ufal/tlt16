@@ -12,6 +12,13 @@ viewPageHeader($title, ""); // title bez suffixu
 
 	<p>at the <a href="http://www.mff.cuni.cz/" target="_blank">Faculty of Mathematics and Physics, Charles University</a>,<br>
 	Malostranské náměstí 25, 11800 Prague 1, Czech Republic</p>
+
+	<h1>Latest News</h1>
+	<p>Registration for the conference is now open (<a href="http://ufal.mff.cuni.cz/tlt16/reg.php">Prices</a>, 
+		shortcut to <a href="https://ufal.mff.cuni.cz/tlt16/registration">Registration Form</a>! 
+		At least one author of an accepted paper must register before Dec. 27, 2017.
+	</p>
+	
 </div>
 
 <div class="column infobox" id="templates">
