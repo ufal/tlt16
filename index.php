@@ -39,7 +39,9 @@ viewPageHeader($title, ""); // title bez suffixu
 	<h2>Co-located workshop: Workshop on Provenance and Annotation</h2>
 	<p>This year, the TLT is co-located with the <a href="">Workshop 
 		on Provenance and Annotation in Computational Linguistics 2018</a>, 
-		taking place also in Prague (same venue as TLT), on January 22nd, 2018, organized by Miriam Butt of University of Konstanz, Germany.
+		taking place also in Prague (same venue as TLT), on January 22nd, 2018,
+		organized by Miriam Butt of University of Konstanz, Germany. 
+		The workshop is free of charge (please use the TLT registration form to register for the Workshop).
 			</p>
 </div>
 
