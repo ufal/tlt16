@@ -15,7 +15,7 @@ viewPageHeader($title, ""); // title bez suffixu
 
 	<h1>Latest News</h1>
 	<p>Registration for the conference is now open (<a href="http://ufal.mff.cuni.cz/tlt16/reg.php">Prices</a>, 
-		shortcut to <a href="https://ufal.mff.cuni.cz/tlt16/registration">Registration Form</a>! 
+		shortcut to <a href="https://ufal.mff.cuni.cz/tlt16/registration">Registration Form</a>)! 
 		At least one author of an accepted paper must register before Dec. 27, 2017.
 	</p>
 	
