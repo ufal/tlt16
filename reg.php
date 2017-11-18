@@ -71,13 +71,13 @@ viewArticleHeader($title);
 <tbody>
 	<tr>
 		<th>Regular</th>
-		<td<?=$earlyDisabledClass?>><?=approx(149*25.65)?></td>
-		<td<?=$lateDisabledClass?>><?=approx(180*25.65)?></td>
+		<td<?=$earlyDisabledClass?>><?=approx(round(1.21*149*25.65))?></td>
+		<td<?=$lateDisabledClass?>><?=approx(round(1.21*180*25.65))?></td>
 	</tr>
 	<tr>
 		<th>Student</th>
-		<td<?=$earlyDisabledClass?>><?=approx(99*25.65)?></td>
-		<td<?=$lateDisabledClass?>><?=approx(130*25.65)?></td>
+		<td<?=$earlyDisabledClass?>><?=approx(round(1.21*99*25.65))?></td>
+		<td<?=$lateDisabledClass?>><?=approx(round(1.21*130*25.65))?></td>
 	</tr>
 </tbody>
 </table>
