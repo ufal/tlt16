@@ -29,7 +29,7 @@ in Vienna, Austria on January 25-26, 2018.
 <h2>Invited speaker</h2>
 
 <ul>
-	<li>Marie Candito, Université Paris Diderot - INRIA, France</li>
+	<li>Marie Candito, Université Paris Diderot, France</li>
 	<li>Lilja Ovrelid, University of Oslo, Norway</li>
 
 </ul>
