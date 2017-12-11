@@ -1,5 +1,8 @@
 <?php
-require("secret.php");
+#require("secret.php");
+$document = "1T4FmudjitXJxkERDtmFJ6RA80LSsjXM60Ek4o89uGYg";
+$key = "AIzaSyDJOjkBsJe5A3VHPHtAW0N66xfhAcHivL8";
+$range = "Sheet1!A:B";
 echo "requesting google sheet<br>";
 $program = file_get_contents("https://sheets.googleapis.com/v4/spreadsheets/$document/values/$range?key=$key");
 
