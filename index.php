@@ -43,6 +43,39 @@ viewPageHeader($title, ""); // title bez suffixu
 </div>
 
 <div class="column">
+	<h2>Invited talks</h2>
+	<h3>Marie Candito, Université Paris Diderot, France</h3>
+	<p>
+	</p>
+        <h3>Lilja Ovrelid, University of Oslo, Norway:</h3>
+	<h3>Downstream use of syntactic analysis: does representation matter?</h3>
+	<p>
+	
+Research in syntactic parsing is largely driven by progress in
+intrinsic evaluation and there have been impressive developments in
+recent years in terms of evaluation measures, such as
+F-score or labeled accuracy. At the same time, a range of different
+syntactic representations have been put to use in treebank annotation
+projects and there have been studies measuring various aspects of the
+"learnability" of these representations and their suitability for
+automatic parsing, mostly also evaluated in terms of intrinsic
+measures.
+
+In this talk I will provide a different perspective on these
+developments and give an overview of research that examines the
+usefulness of syntactic analysis in downstream applications. The talk will
+discuss both constituency-based and dependency-based representations,
+with a focus on various flavours of dependency-based representations,
+ranging from purely syntactic representations to more semantically
+oriented representations. The recently completed shared task on
+Extrinsic Parser Evaluation was aimed at assessing the utility of
+different types of dependency representations for downstream
+applications and I will discuss some of our findings based on the
+results from this task as well as follow-up experiments and analysis.
+	</p>
+</div>
+
+<div class="column">
 	<h2>Co-located workshop: Workshop on Provenance and Annotation</h2>
 	<p>This year, the TLT is co-located with the <a href="https://typo.uni-konstanz.de/dataprovenance">Workshop 
 		on Provenance and Annotation in Computational Linguistics 2018</a>, 
