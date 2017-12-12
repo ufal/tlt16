@@ -43,7 +43,7 @@ viewPageHeader($title, ""); // title bez suffixu
 </div>
 
 <div class="column">
-	<h2>Invited talks</h2>
+	<h2 name="invited">Invited talks</h2>
 	<p>&nbsp;</p>
 	<h3>Marie Candito, Université Paris Diderot, France:</h3>
 	<p>
