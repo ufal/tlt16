@@ -44,9 +44,11 @@ viewPageHeader($title, ""); // title bez suffixu
 
 <div class="column">
 	<h2>Invited talks</h2>
-	<h3>Marie Candito, Université Paris Diderot, France</h3>
+	<p>&nbsp;</p>
+	<h3>Marie Candito, Université Paris Diderot, France:</h3>
 	<p>
-	</p>
+	Title and abstract coming soon.</p>
+	
         <h3>Lilja Ovrelid, University of Oslo, Norway:</h3>
 	<h3>Downstream use of syntactic analysis: does representation matter?</h3>
 	<p>
