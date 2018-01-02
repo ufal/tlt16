@@ -46,10 +46,25 @@ viewPageHeader($title, ""); // title bez suffixu
 	<h2 id="invited">Invited talks</h2>
 	<p>&nbsp;</p>
 	<h3>Marie Candito, Université Paris Diderot, France:</h3>
-	<p>
-	Title and abstract coming soon.</p>
 	
-        <h3>Lilja Ovrelid, University of Oslo, Norway:</h3>
+	<h3>Annotating and parsing to semantic frames: feedback from the French FrameNet project</h3>
+
+	<p>
+Building systems able to provide a semantic representation of texts has long been an objective, both in linguistics and in applied NLP. Although advances in machine learning sometimes seem to diminish the need to use as input sophisticated structured representations of sentences, the enthusiasm for interpreting trained neural networks somewhat seems to reaffirm that need.
+Because they represent schematic situations, semantic frames (Fillmore, 82), as intantiated into FrameNet (Baker, Fillmore and Petruck, 83) are an appealing level of generalization over the eventualities described in texts.
+
+In this talk, I will present some feedback from the development of a French FrameNet, including analysis of the main difficulties we faced during annotation. I will describe how linking generalizations can be extracted from the frame-annotated data, using deep syntactic annotations.
+I will then investigate what kind of input is most effective for FrameNet parsing, from no syntax at all to deep syntactic representations.
+	</p>
+	<p>
+The work I'll present is a joint work with 
+Marianne Djemaa, Philippe Muller, Laure Vieu,
+G. de Chalendar, B. Sagot, P. Amsili (for the French FrameNet), 
+C. Ribeyre, D. Seddah, G. Perrier, B. Guillaume (deep syntax), and 
+Olivier Michalon, Alexis Nasr (semantic parsing).
+	</p>
+	
+        <h3>Lilja Øvrelid, University of Oslo, Norway:</h3>
 	<h3>Downstream use of syntactic analysis: does representation matter?</h3>
 	<p>
 	
