@@ -10,6 +10,13 @@ viewPageHeader($title);
 viewArticleHeader($title);
 ?>
 
+	<h2> Location of the TLT talks </h2>
+	<p>
+		TLT will take place in room S9, Floor 1 (2nd floor in U.S. counting) of the "MFF UK" building (see below). 
+		Please note that the WPACL workshop on January 22 will take place in room S1, Floor 4. 
+		There will be signs posted near the front desk and in the appropriate floors.
+	</p>
+	
 <h2>Annotated Google Map</h2>
 <iframe src="https://www.google.com/maps/d/embed?mid=1clfXkSA5dVkIOKEqA30o2eDvu7c" width="640" height="480"></iframe>
 
