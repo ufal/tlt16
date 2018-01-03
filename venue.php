@@ -188,10 +188,11 @@ From Hlavní nádraží (Main Station):
 
 <ol>
 	<li>
-		Take the metro line C (red line, direction Háje) to the Muzeum station (1 stop).
+		Take the metro line C (red line, direction Háje) to the Muzeum station (1 stop). NB: the Muzeum station is undergoing repairs. 
+		You cannot change directly in the "right" direction. See below.
 	</li>
 	<li>
-		Then change to line A (green line, direction Skalka/Depo Hostivar) and get off at Namesti Miru (1 stop).
+		Then change to line A (green line, direction Skalka/Depo Hostivař) and get off at Náměstí Míru (1 stop).
 	</li>
 	<li>
 		Then change to THE OPPOSITE DIRECTION on line A (green line, direction Dejvická) and get off at Malostranská (4 stops).
