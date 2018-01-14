@@ -15,7 +15,7 @@ viewPageHeader($title, ""); // title bez suffixu
 
 	<h1>Latest News</h1>
 	<p>Proceedings have been published in the ACL Anthology (<a href="http://aclweb.org/anthology/W/W17/#7600">W76</a>, year is 2017). All papers have been linked from the
-		<a href="https://ufal.mff.cuni.cz/tlt16/registration">Program page</a> as well; you can also download the
+		<a href="https://ufal.mff.cuni.cz/tlt16/program.php">Program page</a> as well; you can also download the
 		<a href="http://aclweb.org/anthology/W/W17/W17-76.pdf">full proceedings book</a>. 
 	</p>
 	<p>Registration for the conference is now open (<a href="http://ufal.mff.cuni.cz/tlt16/reg.php">Prices</a>, 
