@@ -154,7 +154,9 @@ Use public transport
 			Take the bus no. 119 (direction Nádraží Veleslavín) to the terminal stop Nádraží Veleslavín.
 		</li>
 		<li>
-			Then take tram no. 20 (direction Sídliště Barrandov) and get off after 12 stops at Malostranské náměstí.
+			Then take tram no. 20 (direction <s>Sídliště Barrandov</s> Nádraží Braník) and get off after 12 stops at Malostranské náměstí. 
+			(Only valid for those coming Sunday, Jan. 21; starting Jan. 22, 
+			you can only go to Malostranska stop (11 stops from Nadrazi Veleslavin) and then have to walk.)
 		</li>
 	</ol>
 </p>
@@ -179,7 +181,9 @@ By Train or Bus
 </p>
 
 <p>
-	To get to the venue using public transport:
+	To get to the venue using public transport (please note the venue is NOT reachable by public transport 
+	directly starting Jan. 22 - you 
+	will have to walk for about 400m from the Malostranska A metro stop): 
 </p>
 
 <h4>
@@ -197,9 +201,6 @@ From Hlavní nádraží (Main Station):
 	<li>
 		Then change to THE OPPOSITE DIRECTION on line A (green line, direction Dejvická) and get off at Malostranská (4 stops).
 	</li>
-	<li>
-		Then take tram no. 12, 20, 22 or 23 (direction Sídliště Barrandov or Nádraží Hostivař) and get off at Malostranské náměstí (1 stop).
-	</li>
 </ol>
 
 <p>
@@ -212,12 +213,20 @@ From the Holešovice Railway Station:
 
 <ol>
 	<li>
-		take tram no. 12 (direction Sídliště Barrandov) and get off after 10 stops at Malostranské náměstí.
+		Take the metro line C (red line, direction Háje) to the Muzeum station. NB: the Muzeum station is undergoing repairs. 
+		You cannot change directly in the "right" direction. See below.
 	</li>
+	<li>
+		At Muzeum, change to line A (green line, direction Skalka/Depo Hostivař) and get off at Náměstí Míru (1 stop).
+	</li>
+	<li>
+		Then change to THE OPPOSITE DIRECTION on line A (green line, direction Dejvická) and get off at Malostranská (4 stops).
+	</li>
+
 </ol>
 
 <p>
-	The journey takes about 20 minutes, the fare is CZK 24 (ca. USD 1.15). You can view it on Google maps.
+	The journey takes about 28 minutes, the fare is CZK 24 (ca. USD 1.15). You can view it on Google maps.
 </p>
 
 <h4>
@@ -229,7 +238,7 @@ From Florenc Bus Station:
 		Take the metro line B (yellow line, direction Zličín) to the Národní třída station (3 stops).
 	</li>
 	<li>
-		Take tram no. 22 (direction Bílá Hora) and get off at Malostranské náměstí (4 stops).
+		Take tram no. 22 (direction Bílá Hora) and get off at Malostranská (3 stops).
 	</li>
 </ol>
 
