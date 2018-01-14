@@ -226,7 +226,7 @@ From the Holešovice Railway Station:
 </ol>
 
 <p>
-	The journey takes about 28 minutes, the fare is CZK 24 (ca. USD 1.15). You can view it on Google maps.
+	The journey takes about 35 minutes, the fare is CZK 32 (ca. USD 1.45). You can view it on Google maps.
 </p>
 
 <h4>
@@ -235,15 +235,19 @@ From Florenc Bus Station:
 
 <ol>
 	<li>
-		Take the metro line B (yellow line, direction Zličín) to the Národní třída station (3 stops).
+		Take the metro line C (red line, direction Háje) to the Muzeum station (2 stops). NB: the Muzeum station is undergoing repairs. 
+		You cannot change directly in the "right" direction. See below.
 	</li>
 	<li>
-		Take tram no. 22 (direction Bílá Hora) and get off at Malostranská (3 stops).
+		Then change to line A (green line, direction Skalka/Depo Hostivař) and get off at Náměstí Míru (1 stop).
+	</li>
+	<li>
+		Then change to THE OPPOSITE DIRECTION on line A (green line, direction Dejvická) and get off at Malostranská (4 stops).
 	</li>
 </ol>
 
 <p>
-	The journey takes about 25 minutes, the fare is CZK 24 (ca. USD 1.15). You can view it on Google maps (along with other options).
+	The journey takes about 27 minutes, the fare is CZK 24 (ca. USD 1.15). You can view it on Google maps (along with other options).
 </p>
 
 <h4>
