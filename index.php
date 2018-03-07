@@ -51,7 +51,8 @@ viewPageHeader($title, ""); // title bez suffixu
 	<p>&nbsp;</p>
 	<h3>Marie Candito, Université Paris Diderot, France:</h3>
 	
-	<h3>Annotating and parsing to semantic frames: feedback from the French FrameNet project</h3>
+	<h3><a href="candito_tlt16_jan2018.pdf">Annotating and parsing 
+		to semantic frames: feedback from the French FrameNet project</a></h3>
 
 	<p>
 Building systems able to provide a semantic representation of texts has long been an objective, both in linguistics and in applied NLP. Although advances in machine learning sometimes seem to diminish the need to use as input sophisticated structured representations of sentences, the enthusiasm for interpreting trained neural networks somewhat seems to reaffirm that need.
